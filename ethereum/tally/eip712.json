@@ -58,7 +58,7 @@
                         "fields": [
                             {
                                 "label": "Delegatee",
-                                "path": "address"
+                                "path": "delegatee"
                             },
                             {
                                 "label": "Nonce",
@@ -160,7 +160,7 @@
                         "fields": [
                             {
                                 "label": "Delegatee",
-                                "path": "address"
+                                "path": "delegatee"
                             },
                             {
                                 "label": "Nonce",
@@ -262,7 +262,7 @@
                         "fields": [
                             {
                                 "label": "Delegatee",
-                                "path": "address"
+                                "path": "delegatee"
                             },
                             {
                                 "label": "Nonce",
@@ -364,7 +364,7 @@
                         "fields": [
                             {
                                 "label": "Delegatee",
-                                "path": "address"
+                                "path": "delegatee"
                             },
                             {
                                 "label": "Nonce",
@@ -470,7 +470,7 @@
                         "fields": [
                             {
                                 "label": "Delegatee",
-                                "path": "address"
+                                "path": "delegatee"
                             },
                             {
                                 "label": "Nonce",
