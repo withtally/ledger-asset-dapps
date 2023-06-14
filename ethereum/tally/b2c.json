@@ -9,17 +9,17 @@
                 "0x3bccf4fd": {
                     "erc20OfInterest": [],
                     "method": "castVoteBySig",
-                    "plugin": "Uniswap"
+                    "plugin": "Tally"
                 },
                 "0x56781388": {
                     "erc20OfInterest": [],
                     "method": "castVote",
-                    "plugin": "Uniswap"
+                    "plugin": "Tally"
                 },
                 "0x7b3c71d3": {
                     "erc20OfInterest": [],
                     "method": "castVoteWithReason",
-                    "plugin": "Uniswap"
+                    "plugin": "Tally"
                 }
             }
         },
@@ -30,12 +30,12 @@
                 "0x5c19a95c": {
                     "erc20OfInterest": [],
                     "method": "delegate",
-                    "plugin": "Uniswap"
+                    "plugin": "Tally"
                 },
                 "0xc3cda520": {
                     "erc20OfInterest": [],
                     "method": "delegateBySig",
-                    "plugin": "Uniswap"
+                    "plugin": "Tally"
                 }
             }
         },
@@ -46,12 +46,12 @@
                 "0x15373e3d": {
                     "erc20OfInterest": [],
                     "method": "castVote",
-                    "plugin": "Gitcoin"
+                    "plugin": "Tally"
                 },
                 "0x4634c61f": {
                     "erc20OfInterest": [],
                     "method": "castVoteBySig",
-                    "plugin": "Gitcoin"
+                    "plugin": "Tally"
                 }
             }
         },
@@ -62,12 +62,12 @@
                 "0x5c19a95c": {
                     "erc20OfInterest": [],
                     "method": "delegate",
-                    "plugin": "Gitcoin"
+                    "plugin": "Tally"
                 },
                 "0xc3cda520": {
                     "erc20OfInterest": [],
                     "method": "delegateBySig",
-                    "plugin": "Gitcoin"
+                    "plugin": "Tally"
                 }
             }
         },
@@ -78,17 +78,17 @@
                 "0x3bccf4fd": {
                     "erc20OfInterest": [],
                     "method": "castVoteBySig",
-                    "plugin": "Hop"
+                    "plugin": "Tally"
                 },
                 "0x56781388": {
                     "erc20OfInterest": [],
                     "method": "castVote",
-                    "plugin": "Hop"
+                    "plugin": "Tally"
                 },
                 "0x7b3c71d3": {
                     "erc20OfInterest": [],
                     "method": "castVoteWithReason",
-                    "plugin": "Hop"
+                    "plugin": "Tally"
                 }
             }
         },
@@ -99,12 +99,12 @@
                 "0x5c19a95c": {
                     "erc20OfInterest": [],
                     "method": "delegate",
-                    "plugin": "Hop"
+                    "plugin": "Tally"
                 },
                 "0xc3cda520": {
                     "erc20OfInterest": [],
                     "method": "delegateBySig",
-                    "plugin": "Hop"
+                    "plugin": "Tally"
                 }
             }
         },
@@ -115,12 +115,12 @@
                 "0x15373e3d": {
                     "erc20OfInterest": [],
                     "method": "castVote",
-                    "plugin": "PoolTogether"
+                    "plugin": "Tally"
                 },
                 "0x4634c61f": {
                     "erc20OfInterest": [],
                     "method": "castVoteBySig",
-                    "plugin": "PoolTogether"
+                    "plugin": "Tally"
                 }
             }
         },
@@ -147,17 +147,17 @@
                 "0x3bccf4fd": {
                     "erc20OfInterest": [],
                     "method": "castVoteBySig",
-                    "plugin": "ENS"
+                    "plugin": "Tally"
                 },
                 "0x56781388": {
                     "erc20OfInterest": [],
                     "method": "castVote",
-                    "plugin": "ENS"
+                    "plugin": "Tally"
                 },
                 "0x7b3c71d3": {
                     "erc20OfInterest": [],
                     "method": "castVoteWithReason",
-                    "plugin": "ENS"
+                    "plugin": "Tally"
                 }
             }
         },
@@ -168,12 +168,12 @@
                 "0x5c19a95c": {
                     "erc20OfInterest": [],
                     "method": "delegate",
-                    "plugin": "ENS"
+                    "plugin": "Tally"
                 },
                 "0xc3cda520": {
                     "erc20OfInterest": [],
                     "method": "delegateBySig",
-                    "plugin": "ENS"
+                    "plugin": "Tally"
                 }
             }
         }
